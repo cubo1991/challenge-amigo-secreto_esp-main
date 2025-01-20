@@ -16,8 +16,6 @@ El desafío principal de este proyecto es fortalecer las habilidades de lógica 
 ## Tecnologías Usadas
 
 - **JavaScript**: Lógica principal y manipulación del DOM.
-- **HTML**: Estructura básica de la interfaz de usuario.
-- **CSS** (opcional): Estilo para la presentación visual (puedes agregar un archivo de estilo si lo deseas).
 
 ## Instrucciones de Uso
 
@@ -43,4 +41,4 @@ Si el campo de nombre está vacío, se muestra una alerta pidiendo al usuario qu
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/sorteo-amigos.git
+   git clone https://github.com/cubo1991/challenge-amigo-secreto_esp-main.git
